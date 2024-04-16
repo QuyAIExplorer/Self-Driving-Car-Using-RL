@@ -5,18 +5,18 @@ This project develops an autonomous vehicle control system using the Deep Q-Netw
 The main objective of this project is to deepen my understanding of reinforcement learning and related algorithms. Additionally, I aim to enhance my Python coding skills, particularly in utilizing AI frameworks like TensorFlow.
 
 ### Files in the Project:
-GameEnv.py: Sets up the environment for training the car agent.
-Goals.py: Sets up the target award and punishment for the agent.
-Walls.py: Sets up walls so that if the car agent hits them, it will be punished.
-car.png: Image representing the agent on the GUI.
-ddqn_keras.py: Contains the Deep Q-Network algorithm.
-ddqn_model.h5: The file that will be trained and continuously updated.
-main.py: The main file for the agent to run in the environment and continuously update the agent's policy.
-main_test_model.py: After training, use this file to run the agent to the destination.
-track.png: Map showing the environment on the GUI.
-Report_Final_Project.docx: A report containing detailed information about the project and the reinforcement learning techniques used.
-Result_video.mp4: A video showing the car start running from start point to the goal
-Presentation_video: To understand more about each python file and the algorithm, you can refer to [this link](https://drive.google.com/file/d/17t64M17o_eQhOkqmQSfBPaVcUANLUy_3/view?usp=sharing).
+- GameEnv.py: Sets up the environment for training the car agent.
+- Goals.py: Sets up the target award and punishment for the agent.
+- Walls.py: Sets up walls so that if the car agent hits them, it will be punished.
+- car.png: Image representing the agent on the GUI.
+- ddqn_keras.py: Contains the Deep Q-Network algorithm.
+- ddqn_model.h5: The file that will be trained and continuously updated.
+- main.py: The main file for the agent to run in the environment and continuously update the agent's policy.
+- main_test_model.py: After training, use this file to run the agent to the destination.
+- track.png: Map showing the environment on the GUI.
+- Report_Final_Project.docx: A report containing detailed information about the project and the reinforcement learning techniques used.
+- Result_video.mp4: A video showing the car start running from start point to the goal
+- Presentation_video: To understand more about each python file and the algorithm, you can refer to [this link](https://drive.google.com/file/d/17t64M17o_eQhOkqmQSfBPaVcUANLUy_3/view?usp=sharing).
 
 ### Running the Project:
 1. Clone the repository to your local machine.
